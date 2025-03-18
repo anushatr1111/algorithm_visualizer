@@ -68,3 +68,45 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ # Algorithm Visualizer
+
+An interactive Algorithm Visualizer built using **React.js** and **D3.js** to strengthen data structures and algorithms understanding.
+
+## 🚀 Features
+- **Sorting Algorithms**: Visualize Bubble Sort, Merge Sort, Quick Sort, etc.
+- **Graph Traversals**: BFS, DFS, and Dijkstra's Algorithm.
+- **Tree Structures**: Binary Trees, BST traversals.
+- **Interactive UI**: Controls for execution speed and step-by-step visualization.
+
+## 🛠 Tech Stack
+- **Frontend**: React.js
+- **Visualization**: D3.js
+- **Styling**: Tailwind CSS (Optional)
+
+## 📦 Installation
+```sh
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/algorithm-visualizer.git
+cd algorithm-visualizer
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+```
+
+## 🎯 Usage
+1. Select an algorithm.
+2. Adjust visualization settings (speed, array size, etc.).
+3. Run and observe the step-by-step execution.
+
+## 📌 Contributing
+1. Fork the repository.
+2. Create a new branch (`feature-new-algorithm`).
+3. Commit your changes and push.
+4. Open a Pull Request!
+
+## 📜 License
+This project is open-source and available under the MIT License.
+
